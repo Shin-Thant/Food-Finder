@@ -11,6 +11,9 @@
 
 :root {
     --primary-clr: tomato;
+    --secondary-clr: #3f5efb;
+    --shadow-color: rgb(255, 255, 255, 0.3);
+    --white-shadow: 0px 3px 15px 3px rgb(255, 255, 255, 0.3);
 }
 
 body {

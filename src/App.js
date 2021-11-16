@@ -1,5 +1,4 @@
 import React from "react";
-import Heading from "./Heading.js";
 import "./App.css";
 import HomePage from "./pages/HomePage/HomePage.js";
 import { DetailPage } from "./pages/DetailPage/DetailPage.js";

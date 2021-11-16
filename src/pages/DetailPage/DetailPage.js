@@ -59,7 +59,6 @@ export const DetailPage = ({ match }) => {
                                 rel="noreferrer"
                             >
                                 Watch Tutorial
-                                {/* <span className="arrow-animation">&#8594;</span> */}
                             </a>
                         </div>
                     </div>
